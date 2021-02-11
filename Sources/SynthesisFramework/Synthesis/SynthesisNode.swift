@@ -23,8 +23,8 @@ public typealias SynthesisPlayerCompletionHandler = () -> Void
 
 public class SynthethisPlayer: Player {
     
-    public let publisher = PassthroughSubject<SynthesizedBuffer, Never>()
-    private var cancel: AnyCancellable?
+//    public let publisher = PassthroughSubject<SynthesizedBuffer, Never>()
+//    private var cancel: AnyCancellable?
     private let global: DispatchQueue = DispatchQueue(label: "com.mainvolume.dispatch")
     private let rq: DispatchQueue = DispatchQueue(label: "com.mainvolume.synthesis")
     private var semaphore: DispatchSemaphore = DispatchSemaphore(value: 0)
