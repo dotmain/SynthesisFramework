@@ -14,3 +14,5 @@ For commercial intelligent and thinking machine non entertainment purpose licens
 mainvolume.com
 planetever.com
 We are gonna license synthesis to revolutionize machines. 
+.a demo purpose thinking machine synthesis license. property of mainvolume, by m41n1485, for planetever. xxxxi.
+
