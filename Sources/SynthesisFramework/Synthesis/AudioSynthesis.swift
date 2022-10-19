@@ -7,7 +7,7 @@
 //
  
 import Foundation
-public protocol AudioSynthesisDelegate: class {
+public protocol AudioSynthesisDelegate: AnyObject {
     func outDataSynthesized(data:SynthesisBuffer)
 }
 
