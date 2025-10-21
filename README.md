@@ -16,3 +16,12 @@ planetever.com
 We are gonna license synthesis to revolutionize machines. 
 .a demo purpose thinking machine synthesis license. property of mainvolume, by m41n1485, for planetever. xxxxi.
 
+Intellectual Property Rights Statement
+
+All original code, concepts, documentation, and associated materials in this repository are the intellectual property of Sina and Mainvolume.
+No part of this repository may be copied, modified, distributed, or used for commercial purposes without explicit written permission from the author, unless otherwise specified in the accompanying license file.
+
+The inclusion of external libraries or references does not imply ownership of third-party intellectual property.
+All rights not expressly granted are reserved by the author.
+
+© 2021 mainvolume. All rights reserved.
